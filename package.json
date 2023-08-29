@@ -2,9 +2,9 @@
   "name": "snake-game",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "open ./src/index.html"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,4 @@
   "bugs": {
     "url": "https://github.com/bogdanblare/snake-game/issues"
   }
-
 }
