@@ -1,4 +1,4 @@
-# Run Locally
+# 💻 Run Locally
 
 Clone the project
 
@@ -18,8 +18,8 @@ Start
   npm start
 ```
 
-## Snake-game
+## 🚀 Snake-game
 
-## Screenshots
+## 📸 Screenshots
 
 ![App Screenshot]()
