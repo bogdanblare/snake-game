@@ -18,6 +18,6 @@ Start
   npm start
 ```
 
-## 🚀 Snake-game
+# 🚀 Snake-game
 
 A snake game is a classic and simple video game where the player controls a snake that moves around the screen. 
