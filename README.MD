@@ -20,6 +20,4 @@ Start
 
 ## 🚀 Snake-game
 
-## 📸 Screenshots
-
-![App Screenshot]()
+A snake game is a classic and simple video game where the player controls a snake that moves around the screen. 
